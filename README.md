@@ -6,4 +6,4 @@ I'm currently in Brazil studing Computer science, I'll graduate on dezember of 2
 So far I have studied C language, python, HTML, CSS, JS, and Angular.
  I'm interested to specilize as a backend programmar, and to get a part job in the area. 
 
-You can contact me by this e-mail: Yurimn14@outlook.com
+You can contact me by this e-mail: yuri.martins02@icloud.com
